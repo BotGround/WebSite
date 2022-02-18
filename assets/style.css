@@ -1,0 +1,30 @@
+.cactus {
+    color:antiquewhite;
+}
+
+.cactusDiv {
+    margin: auto;
+    width: 100%;
+    padding-top: 190px;
+}
+
+body {
+    background-color: darkslateblue;
+}
+
+.title {
+    color: antiquewhite;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bold;
+}
+
+.social {
+    padding-top: 50px;
+    text-align: center;
+}
+
+.socialIcon {
+    width: 30px;
+}
