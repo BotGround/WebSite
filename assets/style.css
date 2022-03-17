@@ -28,3 +28,22 @@ body {
 .socialIcon {
     width: 30px;
 }
+
+.NitroAssets{
+    margin: auto;
+    width: 50%;
+}
+.nonNitroAssets{
+    margin: auto;
+    width: 50%;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    color: antiquewhite;
+}
+
+pre{
+    color:antiquewhite;
+}
