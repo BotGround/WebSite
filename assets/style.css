@@ -39,11 +39,13 @@ body {
 }
 
 h2{
+    color: antiquewhite;
     font-family: 'Montserrat', sans-serif;
     font-family: 'Roboto Mono', monospace;
-    color: antiquewhite;
+    
 }
 
 pre{
     color:antiquewhite;
 }
+
